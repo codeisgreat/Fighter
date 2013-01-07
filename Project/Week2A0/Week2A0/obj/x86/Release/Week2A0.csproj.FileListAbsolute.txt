@@ -1,0 +1,11 @@
+E:\2012\Week2A0\Week2A0\bin\Release\Week2A0.exe
+E:\2012\Week2A0\Week2A0\bin\Release\Week2A0.pdb
+E:\2012\Week2A0\Week2A0\obj\x86\Release\ResolveAssemblyReference.cache
+E:\2012\Week2A0\Week2A0\obj\x86\Release\Week2A0.MainForm.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Release\Week2A0.PlayerUserControl.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Release\Week2A0.PreferencesForm.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Release\Week2A0.Properties.Resources.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Release\GenerateResource.read.1.tlog
+E:\2012\Week2A0\Week2A0\obj\x86\Release\GenerateResource.write.1.tlog
+E:\2012\Week2A0\Week2A0\obj\x86\Release\Week2A0.exe
+E:\2012\Week2A0\Week2A0\obj\x86\Release\Week2A0.pdb

@@ -1,0 +1,1 @@
+1. Buttons aren't logically turning off and on correctly. This may be an easy bug to fix, but I can't be bothered at the current time.

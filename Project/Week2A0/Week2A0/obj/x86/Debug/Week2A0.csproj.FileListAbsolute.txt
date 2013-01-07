@@ -1,0 +1,51 @@
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.MainForm.resources
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.PlayerUserControl.resources
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.Properties.Resources.resources
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.csproj.GenerateResource.Cache
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\bin\Debug\Week2A0.exe
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\bin\Debug\Week2A0.pdb
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.exe
+F:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.pdb
+L:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.exe
+L:\2012\School\IT\Semester 2\Week2A0\Week2A0\obj\x86\Debug\Week2A0.pdb
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\Week2A0.exe
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\Week2A0.pdb
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\bin\Debug\Week2A0.exe
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\bin\Debug\Week2A0.pdb
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\Week2A0.MainForm.resources
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\Week2A0.PlayerUserControl.resources
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\Week2A0.Properties.Resources.resources
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\martinm\Documents\Visual Studio 2010\Projects\Week2A0\Week2A0\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.exe
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.pdb
+F:\2012\Week2A0\Week2A0\bin\Debug\Week2A0.exe
+F:\2012\Week2A0\Week2A0\bin\Debug\Week2A0.pdb
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.MainForm.resources
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.PlayerUserControl.resources
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.Properties.Resources.resources
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.csproj.GenerateResource.Cache
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.exe
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.pdb
+L:\2012\Week2A0\Week2A0\bin\Debug\Week2A0.exe
+L:\2012\Week2A0\Week2A0\bin\Debug\Week2A0.pdb
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.MainForm.resources
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.PlayerUserControl.resources
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.Properties.Resources.resources
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\2012\Week2A0\Week2A0\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.PreferencesForm.resources
+F:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.csprojResolveAssemblyReference.cache
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.exe
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.pdb
+E:\2012\Week2A0\Week2A0\bin\Debug\Week2A0.exe
+E:\2012\Week2A0\Week2A0\bin\Debug\Week2A0.pdb
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.MainForm.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.PlayerUserControl.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.PreferencesForm.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\Week2A0.Properties.Resources.resources
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2012\Week2A0\Week2A0\obj\x86\Debug\GenerateResource.write.1.tlog
